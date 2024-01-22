@@ -10,8 +10,8 @@
 
 | 软件    | 版本                       | 说明                                                         |
 | ------- | -------------------------- | ------------------------------------------------------------ |
-| Autojsx | v6-universal-release-6.5.7 | 官网地址：http://doc.autoxjs.com/，对应的apk文件就在项目目录`apk/`下面 |
-| QQ音乐  | 13.0                       | 对应的apk文件就在项目目录`apk/`下面                          |
+| Autojsx | v6-universal-release-6.5.7 | 官网地址：http://doc.autoxjs.com/。链接：https://pan.baidu.com/s/1SeLnunEzi6f65gHIkjcpfA <br/>提取码：zxjd |
+| QQ音乐  | 13.0                       | 百度网盘地址：链接：https://pan.baidu.com/s/1CEJmO3YHbxBiNw3hax-eLg <br/>提取码：az20 |
 | android | 13                         | 本项目开发时的手机是红米k40，android版本为13，miui版本为14.0.8 |
 
 
