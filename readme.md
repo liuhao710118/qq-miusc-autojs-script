@@ -26,4 +26,4 @@
 
 Autojsx需要配合vscode插件来使用，vscode插件地址：[710850609/Auto.js-VSCode-Extension: A simple development plugin for Auto.js. (github.com)](https://github.com/710850609/Auto.js-VSCode-Extension)
 
-![image-20240122230336046](.\resources\redame.assert\image-20240122230336046.png)
+![image-20240122230336046](https://raw.githubusercontent.com/liuhao710118/data/main/readme/images202401230021088.png)
