@@ -22,6 +22,32 @@
 
 
 
+## adb调试说明
+
+> adb调试工具下载地址：[SDK 平台工具版本说明  | Android Studio  | Android Developers (google.cn)](https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn)
+
+![image-20240128162401104](./resources/readme.assert/image-20240128162401104.png)
+
+启动adb
+
+```bash
+./adb.exe start-server
+```
+
+关闭adb
+
+```bash
+./adb.exe kill-server
+```
+
+连接adb
+
+```bash
+./adb.exe connect [host][:port]
+```
+
+
+
 ## vscode启动说明
 
 Autojsx需要配合vscode插件来使用，vscode插件地址：[710850609/Auto.js-VSCode-Extension: A simple development plugin for Auto.js. (github.com)](https://github.com/710850609/Auto.js-VSCode-Extension)
